@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "metadatae",
+  "info": {
+    "singularName": "metadata",
+    "pluralName": "metadatae",
+    "displayName": "Metadata"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "twitterusername": {
+      "type": "string"
+    },
+    "siteurl": {
+      "type": "string"
+    },
+    "siteicon": {
+      "type": "string"
+    }
+  }
+}
